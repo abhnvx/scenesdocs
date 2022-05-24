@@ -42,6 +42,11 @@ const config = {
 
           
         },
+
+        gtag: {
+          trackingID: 'G-QRFCJJR1BZ',
+        },
+
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
